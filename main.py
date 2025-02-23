@@ -29,8 +29,8 @@ class BiliSearchPlugin(PluginBase):
     """
 
     description = "一个根据关键词搜索BiliBili视频链接并以文字形式发送给用户的插件，并支持播放指定编号的视频"
-    author = "AI编程猫"
-    version = "2.2.0"
+    author = "老夏的金库"
+    version = "1.0.0"
 
     def __init__(self):
         super().__init__()
