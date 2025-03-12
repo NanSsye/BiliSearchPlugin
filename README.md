@@ -1,5 +1,6 @@
 # BiliSearchPlugin 使用说明
 
+<img src="https://github.com/user-attachments/assets/a2627960-69d8-400d-903c-309dbeadf125" width="400" height="600">
 ## 一、插件概述
 
 BiliSearchPlugin 是一个用于搜索 B 站视频并提供播放链接的插件。用户可以通过关键词搜索 B 站视频，选择感兴趣的视频后查看剧集列表，并播放指定的剧集。该插件支持在聊天场景中与用户进行交互，为用户提供便捷的视频搜索和播放服务。
