@@ -114,3 +114,9 @@ BiliSearchPlugin 是一个用于搜索 B 站视频并提供播放链接的插件
 
 -   ![微信图片_20250223235609](https://github.com/user-attachments/assets/6cc415fd-05f3-4b1c-80fb-4796ea6391a2)
 
+**给个 ⭐ Star 支持吧！** 😊
+
+**开源不易，感谢打赏支持！**
+
+![image](https://github.com/user-attachments/assets/2dde3b46-85a1-4f22-8a54-3928ef59b85f)
+
